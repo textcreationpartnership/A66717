@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions for the use of my elixir my philosophical petza or plaister, my balsom, and also my purging drink / by Salvator VVinter, an Italian of the city of Naples.</title>
+            <author>Winter, Salvator.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66717</idno>
+            <idno type="STC">Wing W3085</idno>
+            <idno type="STC">ESTC R38149</idno>
+            <idno type="EEBO-CITATION">17197456</idno>
+            <idno type="OCLC">ocm 17197456</idno>
+            <idno type="VID">106178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106178)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1624:61)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions for the use of my elixir my philosophical petza or plaister, my balsom, and also my purging drink / by Salvator VVinter, an Italian of the city of Naples.</title>
+                  <author>Winter, Salvator.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patent medicines --  England --  Early works to 1800.</term>
+               <term>Medicine, Popular.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:106178:1" rendition="simple:additions"/>
+            <head>By Salvator VVinter, An <hi>Italian</hi> of the <hi>City</hi> of <hi>Naples.</hi>
+            </head>
+            <head type="sub">
+               <hi>Directions</hi> for the Uſe of my <hi>Elixir,</hi> my Philoſophical <hi>Petza</hi> or Plaiſter, my Balſom, and alſo my Purging Drink.</head>
+            <opener>
+               <salute>Readers,</salute>
+            </opener>
+            <p>I Preſent you with my <hi>Elixir,</hi> my Purging <hi>Spirit,</hi> my <hi>Petza</hi> or Plaiſter, and my <hi>Balſom;</hi> which through long Study, great Travel, and daily Experience, I have found to be <hi>Univerſal Medicines</hi> for all <hi>Diſeaſes, Diſtempers, Maladies</hi> and <hi>Caſualties, Age</hi> or <hi>Sex</hi> of <hi>Man.</hi> But ſhould I attempt particularly to declare their Vertues, and the ſeveral Cures that (by Gods Bleſſing) I have therewith (even beyond Imagination) perfor<g ref="char:EOLhyphen"/>med, This Sheet vvould ſwell into a Volume. I have therefore only mentioned ſome Few (of thoſe Many) Cures; and inſtanced ſome par<g ref="char:EOLhyphen"/>ticular Diſeaſes, for your better direction in all. I have done my part to proffer it unto you, and that at a Small Price, conſidering its Worth. But if you prefer <hi>Money</hi> before <hi>Health,</hi> and neglect to furniſh your ſelves vvith this Treaſure novv offered unto you, the Fault will be yours, not mine, if hereafter you have occaſion for it, and want it.</p>
+            <p>Firſt, My <hi>Elixir</hi> is of ſuch Admirable Vertue, that it alone is ſufficient not only to Cure any Diſeaſe incident unto Man, and to prolong even Old Age it ſelf, But to prevent any diſeaſe from fixing upon you. And did you really regard your Health, you would conſtantly have it about you. How much better Prevention is, then After-Remedy, they vvill tell you, who have paid dear for their Experience. I my ſelf at this time am Four<g ref="char:EOLhyphen"/>ſcore and three years Old and upwards; have ſcarce a Bone in my Body but vvhat hath been Broken or Bruiſed; beſides ſeveral dangerous Wounds I have had, ſome whereof the Chirurgeons would not undertake; yet by the Vertue of this my <hi>Elixir</hi> I did Cure them, to the great Aſtoniſhment of all that knew of it. So that what I aſſert, is not only Experience gain<g ref="char:EOLhyphen"/>ed by Practice upon others, but ſuch of vvhich I my ſelf am ſenſible, and at this time feel the Benefit; Who not only by Studying, but by Taking daily, and that ſeveral times in a day of this my <hi>Elixir,</hi> am (by Gods Bleſ<g ref="char:EOLhyphen"/>ſing) preſerved in health. It may be taken at any time, and in all Con<g ref="char:EOLhyphen"/>ditions, with good ſucceſs, and to your great Benefit, as hereafter ſhall be
+<pb facs="tcp:106178:2"/>ſhewn unto you: Viz. <hi>Robert Hunt,</hi> Apprentice to Mr. <hi>S<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>.</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Stories and an half through the Joyces, at Mr. <hi>Burroughs</hi> a Lawyers <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Strand</hi>-Bridg, Bruis'd and Broke his Head, and almoſt all his Bones, and was ſpeechleſs; yet vvas recovered and Cured in a ſhort time with my <hi>Elixir.</hi>
+            </p>
+            <p n="2">2. For any Diſeaſes in the <hi>Head,</hi> take a little of my <hi>Elixir,</hi> and pour it in the palm of your hand, ſnuffing thereof ſtrongly up your Noſtrils, drawing up the very Liquor, if need be; and in ſo doing you ſhall find preſent eaſe: And if the Humor be rebellious, bathe the Head very well with the Elixir; then clap on a piece of a Hogs or Calves Bladder, the ſofter the better, to keep the Linen from the <hi>Elixir,</hi> which vvould otherwiſe dry it up. To remove the Cauſe, it vvill be requiſite you take ſome of my Purging Spirit, till you find your ſelf perfectly well, as othervviſe you ſhall be directed; vvhich vvill cleanſe you throughout. My <hi>Elixir</hi> cureth alſo the <hi>Lethargy</hi> and <hi>Apoplexy:</hi> One was trapan'd (but not by my Order) vvho ſhould not have doubted the Cure of the moſt vehement Pain or Head-ach with my <hi>Elixir</hi> and <hi>Plaiſter;</hi> provided I had the applying of it my ſelf. I have Cured ſome that vvould otherwiſe have been trapan'd. Mr. <hi>William Weſtwood</hi> of <hi>Reading</hi> in the County of <hi>Berks,</hi> was upon the Road in a Fit ſurpriz'd with ſuddain death; But having 4. or 5. perſons about him, whereof one finding accidentally ſome of my <hi>Elixir</hi> in his Pocket, and forcing ſome down his Throat, and ſome into his Noſtrils, he immediately recovered, and lived ſeveral years after, to my knowledg.</p>
+            <p n="3">3. For <hi>Sore Eyes,</hi> or <hi>Dimneſs of Sight,</hi> lying on your Back, bathe the Eye-lids well with my <hi>Elixir,</hi> your Eyes being almoſt ſhut, leſt the ſmarting trouble you: yet if it get in, it hurts not the Eyes, but cleers and ſtrengthens them; Do this twice a day, if need be. <hi>Elizabeth Would have</hi> living near the Water-ſide at <hi>New-Caſtle</hi> upon <hi>Tine,</hi> aged about 19. years, could at beſt not ſee without Spectacles, and by the Vertue of my <hi>Elixir</hi> was cured.</p>
+            <p n="4">4. For <hi>Deafneſs of Hearing,</hi> or <hi>Noiſe in the Ear,</hi> lying down on the contrary ſide, anoint round about the Ear with the Balſom, and chafing it in well, fill the Ear as full as it can hold with my <hi>Elixir;</hi> this muſt be done at-night going to Bed; and if need be, uſe it the next night, and to the other Ear.
+<pb facs="tcp:106178:2"/>I cured with it (beſides many others.) <hi>James Mills</hi> at Mr. <hi>Lydalls</hi> near the <hi>Armitage</hi> in <hi>Wapping.</hi>
+            </p>
+            <p n="5">5. For the <hi>Tooth-ach, ſore Throat,</hi> or the like, hold ſome of my Elixir in your mouth as long as you can upon the Tooth; but for Soreneſs and hoarſeneſs in the Throat, gargarize your Throat very well with my Elixir, and let it down by degrees. It helps a ſtinking breath alſo, and the Scurvy.</p>
+            <p n="6">6. For any pain in the <hi>Stomach,</hi> and bad <hi>Digeſtion,</hi> or <hi>Re<g ref="char:EOLhyphen"/>luctancy,</hi> bath the pit of the ſtomach very well with my Elixir, (the more the better) the Elixir being well chafed in: then clap on my <hi>Petza</hi> or <hi>Plaiſter,</hi> reaching down from the pit of the ſtomach, to the edge of the Navil, which muſt be kept on for 4 or 5 days, or more; then take it off by degrees, dry the place again, then bathe it well with my <hi>Elixir,</hi> and put on the ſame Plaiſter again. Drink alſo of the <hi>Elixir</hi> every morning, Noon, and Night, and as often as you pleaſe, the oftner the better; but eſpecially when ever you find any indiſpoſition. Men and Women may drink from half a ſpoonful to a ſpoon<g ref="char:EOLhyphen"/>ful; Children, a quarter or leſs, according to their Age, and as you find its operation.</p>
+            <p n="7">7. For the taking away any old Cauſe, whether inward or outward proceeding from any cauſe whatſoever, as <hi>Ulcers, Bruiſes, French Pox, Running of the Reins, Cankers, putrified Sores, Corruption of the blood,</hi> and the like, take of my Ounce Bottle of Purging Spirit, the Doſe is a Thimble full for a Man or Wo<g ref="char:EOLhyphen"/>man, to give 4. or 5. ſtools a day; but if you think you are eaſie to be purged, you may begin with half a thimble full: but if you have leſs then 4 or 5 ſtools a day, take the greater quantity; if more, take the leſs quantity: continue and follow it till the Cure be perfected. If it be taken over-Night, it will purge the next morning. It carrieth away all putrified and Contagious humors, but eſpecially that Viſcous and ſlimy humor, which is Jellyed in the Joynts, and is the Original cauſe of moſt diſeaſes. You may give it to Children a quarter of a thimble full at a time, more or leſs as they are in Age. And for a Child 3. or 4. days old, but 3. drops. When you take
+<pb facs="tcp:106178:3"/>this, you may take it either in 3 or 4 ſpoonfuls or more of Wine, Beer or Broath: But if you give it to a Child, and it be peeviſh and froward, put the quantity you intend to give it, into a pint or more of Beer, and let it drink that day and night, and no other drink till you find it purgeth propor<g ref="char:EOLhyphen"/>tionable to your deſire; which being continued, it will remove from the Body any diſeaſe whatſoever. For an <hi>Ulcer, Canker</hi> or other Sore what<g ref="char:EOLhyphen"/>ſoever, let them take of my <hi>Purging Spirit</hi> daily till they are well; bathe the Sore with my <hi>Elixir,</hi> then apply my <hi>Petza</hi> or Plaiſter. But Note, <hi>That you take not of my</hi> Purging Spirit <hi>above once a day, and that you take ſome of my</hi> Elixir <hi>half an hour before, and preſently after, and at leaſt</hi> 3 <hi>times a day beſides, the oftner the better.</hi> When you take of my <hi>Purging Spirit,</hi> you need not purpoſely keep your Chambe; for it will not make you ſick, or very little; if it cauſe Vomiting, it will be with great eaſe, it vvorking according to the nature of the diſtemper, either by Spitting, Vomiting, a breathing Sweat, Purgation, Urine, or all of them. It may be given to little Children weak or ſtrong, without keeping them from School or Play; and the like to ſucking Children. It purifies the Bones, Sinews &amp; Veins, purging the Body in every part. Mr. <hi>Abemiah Crome</hi> near <hi>New King<g ref="char:EOLhyphen"/>ſtreet</hi> in St. <hi>Giles</hi> in the <hi>Fields,</hi> was ſo exceſſive Ill, and ſo full of Pain, that he could not ſit, but lie along upon his Back, all his Joynts being knotted vvith the diſtemper and humor, no part being free, and reduc'd to that condition, that he beg'd the happineſs once more to ſit; after having tryed ſeveral <hi>Phyſitians</hi> without any ſucceſs, (being given over by them) was to the great Admiration of all, reſtored by the Vertue of my <hi>Elixir</hi> and Purging <hi>Spirit.</hi> I would not have mentioned him, but that himſelf hath often ſpoke of it, and unto this day owneth it. In Children it cureth the <hi>Rickets,</hi> or any other Scurvy diſeaſe, and takes away Worms. I have been more prolix then I at firſt intended, as well for your better di<g ref="char:EOLhyphen"/>rection in the uſe of it, as in reſpect of the extraordinary Vertues of my <hi>Elixir,</hi> and this my <hi>Purging Spirit.</hi>
+            </p>
+            <p n="8">8. For any ſorts of Wounds, bathe them well with my <hi>Elixir</hi> 2 or 3. times together or more, then put on my Balſon (being warm'd) with a fea<g ref="char:EOLhyphen"/>ther, the more the better; then clap on a Linnen Cloth to keep it from running down, binding it up renderly; and ſo continue it for 3 or 4 days; in which time it cures, never failing. For ſmall Wounds, Cuts or the like, dip the Finger or part in the Elixir, and hold it there a while; then apply ſome of the Balſom warm, and bind it up, it cureth at the firſt dreſ<g ref="char:EOLhyphen"/>ſing. For great and Mortal Wounds, if the party be run through with a Rapier or the like, let him be ſering'd with my Elixit, then apply gently
+<pb facs="tcp:106178:3"/>a Tent; ſmall at one end, bigger at the other, being dipt in my Elixir and Balſom, let him alſo drink ſome of my Elixir, and bathe with it, the oftner the better; it will neither feſter, nor gangrene; there will no <hi>Fiſtula</hi> nor <hi>Feaver</hi> come there, nor will there (by Gods Bleſſing) be any fear of death. With this Remedy, to the Glory of God, I have Cured many Gangrenes, which by the Advice of others were concluded to be cut off. Only it is requiſite, that afterwards he take twice or thrice of my Purging Spirit to remove all Film, purge and cleanſe the Blood. Mr. <hi>Richard Cook,</hi> Farrier of <hi>Charlberry</hi> in <hi>Oxford ſhire,</hi> having been a long time a Patient to ſome of the Ableſt <hi>Phyſitians</hi> and <hi>Chirurgeons</hi> in <hi>Oxford,</hi> who had Concluded at laſt to cut off his Arm: But I my ſelf with the uſe of my <hi>Elixir</hi> and <hi>Pur<g ref="char:EOLhyphen"/>ging Spirit</hi> ſaved his Arm, and he was perfectly Cured; which to this day he owns and acknowledges, by ſending me 3 or 4 Preſents a year, he ha<g ref="char:EOLhyphen"/>ving been well theſe 3 years; whoſe Son in Law Mr. <hi>Newbury</hi> a Farrier, now living in <hi>Dukes-Yard</hi> in St. <hi>Martins Lane,</hi> can teſtifie more then in <hi>Modeſty</hi> I am willing to ſpeak. When I was at <hi>Colcheſter</hi> under Sir <hi>Charles Lucas,</hi> I Cured abundance of deſperate Wounds, who were not brought unto me till they were very far gone. I alſo Cured one <hi>Thomas</hi> a Taylor, Servant to Mr. <hi>Neev's</hi> at the <hi>White Horſe</hi> in <hi>Bromley,</hi> who was run through with a Rapier unto the very Back-Bone, that the Wind paſſed through his Body from one ſide to the other.</p>
+            <p n="9">9. For Convulſions, Falling or Fainting fits, or Fits of the Mother, Gravel or Stone, difficulty of making water, Burning Feavers, Tertian or Quartan Agues, pains in the Liver or Spleen, chafe my <hi>Elixir</hi> well in with your hand, then anoint with the Balſom, and drink of my <hi>Elixir,</hi> as in the 6th Article. And as for the Ague, drink firſt a ſpoonful when your Fits are ready to come, and then drink more according as you find your ſelf. Mrs. <hi>Jean Horton</hi> of <hi>Cool</hi> near <hi>Nantwich</hi> in <hi>Cheſhire,</hi> Daughter to Mr. <hi>Ralph Horton,</hi> had Convulſion Fits 4, 5, and 6. times a day; and by means of my <hi>Elixir</hi> was Cured. <hi>Jean Nayle,</hi> Servant unto Mr. <hi>George Ward</hi> be<g ref="char:EOLhyphen"/>tween <hi>Old Gravel-Lane</hi> and <hi>Ratcliff High-way,</hi> had the fits of the Falling-ſickneſs ſo violent, that 6. men could not hold her, and was Cured with my <hi>Elixir.</hi>
+            </p>
+            <p n="10">10. For the Small Pox, Meaſles, or the like, firſt bathe with my Elixir then warming the Balſom well take a feather, anoint the Face, the Eye<g ref="char:EOLhyphen"/>lids, and the Throat, very well with the Balſom, drinking my <hi>Elixir,</hi> as in the 6th Article. And if the Small Pox be ſtruck in, my Elixir will put them out again. A Child of Capt. <hi>Acton</hi>'s, being very full of the Small Pox, (which did not come out) and to every ones thoughts dead, the
+<pb facs="tcp:106178:4"/>Mother cloſing the Eys of it, was by means of my <hi>Elixir</hi> perf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctly re<g ref="char:EOLhyphen"/>covered and cured.</p>
+            <p n="11">11. For Burning or Scalding, though never ſo bad and burnt to the Bone, bathe it well with the <hi>Elixir,</hi> and then put the Balſom upon it well mel<g ref="char:EOLhyphen"/>ted, and put it on with a feather; then take a piece of clean white paper, rub it between your hands, &amp; lay it on the griev'd place, binding it up very tenderly, and in ſhort time it cureth perfectly: There are many breed Gangrenes, and other inconveniencies, for want of well Curing; but if pre<g ref="char:EOLhyphen"/>ſently applyed, as before-ſaid, it giveth perfect Cure. C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt. <hi>Punch</hi> being extraordinarily burnt of his right Arm, that every one concluded the Arm irrecoverable, was perfectly cured with my <hi>Elixir;</hi> which he certifying unto <hi>George Mancklins</hi> Eſq; then Lord Mayor of <hi>York,</hi> he admired the Cure, and Ordered me a Certificate under the City Seal.</p>
+            <p n="12">12. For Pains or Aches in any part of the Body, as Gout, Sciatica, Cramp, Palſie, and the like, chafe the place with a warm Napkin, then chaſe in ſome <hi>Elixir</hi> with your hand, and anoint it preſently with the warm Bal<g ref="char:EOLhyphen"/>ſom; clap on a warm napkin, and bind it up: this muſt be done at night going to bed; but if it be for the tender Gout, or a Bruiſe, broken Bellies, or broken Bones, firſt bathe it well with my <hi>Elixir,</hi> then put on my <hi>Petza</hi> or Plaiſter, which cover all over with a Lamb-skin; then ſome Linnen upon that, and bind it up with a ſwathing band, or ſwadling-cloth: do this in the morning before you riſe; and at Night after you are in bed take off the Plaiſter and wipe it, then bathe it with my <hi>Elixir,</hi> and cover it pre<g ref="char:EOLhyphen"/>ſently again. But for to remove the Original Cauſe, take of my Ounce Bottle of Purging-Spirit, as in the 7th Article. Mr. <hi>Butterfield</hi> of <hi>Woo<g ref="char:EOLhyphen"/>lurn</hi> in <hi>Buckinghamſhire,</hi> being ſo vehemently troubled with the <hi>Gout,</hi> that he went upon Crutches; by the means of my <hi>Elixir,</hi> and this my purging <hi>Spirit,</hi> went without his Crutches, being perfectly cured.</p>
+            <p n="13">13. For the running of the Reins, or Weakneſs of the Back, Ulcer in the Reins, or any other part, bathe all along the back-bone with my <hi>Elixir,</hi> and drink it 3. times a day as aforeſaid, or oftner; then take of my Ounce Bottle of Purging Spirit, every morning as before directed in the 7th Ar<g ref="char:EOLhyphen"/>ticle. And for a Plaiſter for the Back (in regard all other Plaiſters are too hot) take 3. ounces of Bees Wax, and when 'tis melted put a ſpoonful of Oyl of Roſes into it, (but take heed it boyl not) incorporate and mix them well together, dip a Linnen cloth in; then take it out and hold it up, and the Plaiſter is made: Which Plaiſter you muſt take off morning and night, that you may bathe it with the Elixir, and after bathing, put it on again; This will Cure it whatever the Diſtemper be. The plaiſter is made only to keep the Elixir on.</p>
+            <p n="14">
+               <pb facs="tcp:106178:4"/> 14. For the Dropſie or Tympany take of my Purging Spirit daily, as you are directed in the 7th Article; only not the full quantity, but rather leſs, in reſpect of the abundance of humors in all <hi>Hydropick</hi> perſons, eſpe<g ref="char:EOLhyphen"/>cially if groſs and Corpulent; My Advice therefore is to take but half a Thimble ſull the firſt time; and if that give above 4 or 5 purges, or 6 at moſt, to leſſen the quantity the next time; if not ſo many to add unto it. For I am not of their Opinion, who either deſire or think to carry away all the humors at once; which in any caſe I do not hold fit; and in this it is dangerous. It weakneth Nature, and together with the <hi>Noxious</hi> humors, doth carry away what otherwiſe would be ſtrengthening and <hi>Nu<g ref="char:EOLhyphen"/>trimental.</hi> I would not therefore have it purge above 4, 5, or 6. times a day at the moſt, that it might gradually work upon the Noxious Humors. For I am certain, that this my purging Spirit and my <hi>Elixir,</hi> by the Bleſ<g ref="char:EOLhyphen"/>ſing of God, will perform it. Nor do I approve of Tapping, though I my ſelf have formerly uſed it; yet had I not uſed my <hi>Elixir</hi> and purging <hi>Spirit,</hi> a Gentlewoman at <hi>Norwich</hi> whom a Servant of mine tapp'd, and took too much at once from, had undoubtedly died; but by the uſe of them was perfectly recovered. And ſince I have cured ſeveral without Tapping, and never failed any I undertook. <hi>Nic. Harris,</hi> Butler to the Lady <hi>Jenkins</hi> of <hi>Charlberry</hi> in <hi>Oxfordſhire,</hi> being ſwoln very much all over his Body with the Dropſie that he could not ſtir one Joynt, was cu<g ref="char:EOLhyphen"/>red with my <hi>Elixir</hi> and <hi>Purging Spirit</hi>
+            </p>
+            <p n="15">15. For the Cough of the Lungs, Conſumption, Ptiſick, Ulcers in the Throat or Mouth, firſt take my <hi>Elixir</hi> and gargarize it very well in the Throat, and then ſwallow it down by degrees. Anoint the Stomach with my Balſom well warm'd, and then apply the Plaiſter to reach from the pit of the Stomach unto the Navil; And every time you Cough; take a Sup (though rever ſo little) of my <hi>Elixir.</hi> Mr. <hi>Brock</hi> at the <hi>Flower-de-luce</hi> in <hi>New-ſtreet Covent-Garden,</hi> being very much troubled with the <hi>Ptiſick,</hi> and very far ſpent, was Cured with it.</p>
+            <p n="16">16. For hard Labour in Women, let the Midwife anoint, and chafe gently the Belly both the Thighs and the Groin with my Balſom, and with her hand: then let the Woman in Labour drink a ſpoonful of my <hi>Elixir,</hi> and if the Labour continues hard, another ſpoonful, which will occaſion (by Gods aſſiſtance) a ſuddain and eaſie delivery. Mris. <hi>Fewiſter,</hi> a Shoo<g ref="char:EOLhyphen"/>makers Wife near <hi>Framwell-gate</hi> in <hi>Durham-Yard,</hi> had 2. Midwives with her, (being in hard Labour 3. dayes, inſomuch that the Midwives and all the Women that were with her, confidently believing that the Child was Dead, would have had it drawn vvith an Inſtrument from her) But vvithin
+<pb facs="tcp:106178:5"/>half an hour after ſhe took ſome of my <hi>Elixir,</hi> ſhe was delivered of a living Child, which lived a years after to my knowledg. It is not only good for the mother whilſt in Labour, but both for mother and Child after her deli<g ref="char:EOLhyphen"/>very; and if the mother of the Child after her delivery immediately take ſome of my <hi>Elixir,</hi> it will eaſe her of After-pain, and prevent the Vapors of the Mother; it is likewiſe good to bathe he parts withall. And about 15 days after, to Comfort and ſtrengthen her, and to carry away all Viſcous and Corrupt humors, vvhich would otherwiſe breed many diſeaſes, let her take ſome of my Purging Spirit.</p>
+            <p n="17">17. For the Plague, Peſtilence, or Spotted Feaver, take of my <hi>Elixir</hi> at the leaſt 3 times a day; oftner if you pleaſe; it will not only prevent, but if Infected, by Gods aſſiſtance it Cureth. To carry away all congealed and fixed humors, take ſome of my Parging Spirit, as afore directed.</p>
+            <p n="18">18. For all ſorts of Poyſons, ſtinging or biting of Scorpions, Adders, or Mad Dogs, or other venemous Beaſts, Gangrenes, and the like, drink of my <hi>Elixir</hi> 3 or 4 times a day or more; bathe alſo the griev'd place morning &amp; night therewith, and after anoint it with my Balſom. Mr. <hi>John Fen<g ref="char:EOLhyphen"/>wick</hi> in <hi>Durham-Yard,</hi> dropping accidentally a Paper of <hi>Mercury</hi> out of his Pocket, which his Son (a Child) taking up, and miſtaking for Sugar, was therewith poyſon'd to that degree, that none vvould adminiſter any thing to him, being very much ſwoln: I was ſent for, when no Body vvould un<g ref="char:EOLhyphen"/>dertake him, and (by Gods Bleſſing) recovered and cured him.</p>
+            <p>
+               <hi>Thus I have given you ſome particular Inſtances of the Vertues of my</hi> Elixir <hi>and</hi> Purging Spirit, <hi>which have prolong'd and increas'd theſe Lines. If any deſire to be further Satisfied, if they come to my Houſe, I can produce Certificates under the Hands and Seals of moſt Cities and Corporations in</hi> England <hi>and</hi> Wales. <hi>Though you have no occaſion for the preſent, yet for their Worth they Recommend themſelves unto you; and will promiſe you to keep their Vertues for your ſake, if you will but keep them cloſe and ſafe, as you would things of Value. They fear not any Climate, for their Vertues are a ſufficient Safeguard and Protection. Were they but arrived in the</hi> Weſt-Indies, <hi>you would quickly hear, that the Country Diſeaſe (or Griping of the Guts) had quit thoſe Regims. N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Marriner or Traveller therefore, but ſhould deſire their Company, Eſpecially ſince you may have them ſo near at hand from me, who live at the Sign of St.</hi> Paul <hi>in</hi> New King-Street, <hi>be<g ref="char:EOLhyphen"/>tween</hi> Long-Acre <hi>and St.</hi> Giles <hi>in the</hi> Fields.</p>
+            <closer>VIVAT REX.</closer>
+            <pb facs="tcp:106178:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
